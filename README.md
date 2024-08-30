@@ -1,6 +1,10 @@
 # Quem sou
 
+Olá, meu nome é Felipe Tavares. 
 
+Trabalho com desenvolvimento de sistemas desde 2015, atualmente exerço o cargo de gestor do setor de desenvolvimento na empresa GEOPointer, fornecendo soluções para acelerar a produção.
+
+<br>
 
 # Tecnologias
 
@@ -36,6 +40,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
 </div>
+
+<br>
 
 # Métricas
 <div align="center">

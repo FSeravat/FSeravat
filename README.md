@@ -47,8 +47,8 @@ Trabalho com desenvolvimento de sistemas desde 2015, atualmente exerço o cargo 
 # Métricas
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fseravat&theme=windows-dark&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FSeravat&size_weight=0.5&count_weight=0.5&layout=compact&hide=html,css,tex,handlebars,batchfile&card_width=900&card_height=200)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FSeravat&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&title_color=1E90FF&text_color=FFFFFF&bg_color=0d1117&hide=html,css,tex,handlebars,batchfile)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fseravat&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200)
   
 </div>

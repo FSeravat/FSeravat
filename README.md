@@ -42,6 +42,12 @@ Trabalho com desenvolvimento de sistemas desde 2015, atualmente exerço o cargo 
   <img align="center" alt="Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
 </div>
 
+## CLOUD
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+</div>
+
 <br>
 
 # Métricas

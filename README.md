@@ -54,7 +54,5 @@ Trabalho com desenvolvimento de sistemas desde 2015, atualmente exerço o cargo 
 <div align="center">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FSeravat&size_weight=0.5&count_weight=0.5&layout=compact&hide=html,css,tex,handlebars,batchfile&card_width=900&card_height=200)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fseravat&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200)
   
 </div>

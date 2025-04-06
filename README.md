@@ -1,8 +1,6 @@
 # Who am I
 
-Olá, meu nome é Felipe Tavares. 
-
-Trabalho com desenvolvimento de sistemas desde 2015, atualmente exerço o cargo de gestor do setor de desenvolvimento na empresa GEOPointer, fornecendo soluções para acelerar a produção.
+Software Developer with 10 years of experience, specializing in developing robust solutions across various industries. I have built CRM system modules and web applications from scratch, always focusing on meeting client needs. I have extensive experience with ETL processes, and since 2022, I have been working on technology solutions tailored for the industrial sector. Additionally, I participated in a strategic project for material reallocation at GASLUB, contributing to process and resource optimization. I have strong experience working in team environments using Agile methodologies, ensuring efficient and collaborative deliveries.
 
 <br>
 

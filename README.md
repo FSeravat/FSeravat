@@ -1,4 +1,4 @@
-# Quem sou
+# Who am I
 
 Olá, meu nome é Felipe Tavares. 
 
@@ -6,9 +6,9 @@ Trabalho com desenvolvimento de sistemas desde 2015, atualmente exerço o cargo 
 
 <br>
 
-# Tecnologias
+# Stacks
 
-## Linguagens de programação
+## Programming Languages
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -18,7 +18,7 @@ Trabalho com desenvolvimento de sistemas desde 2015, atualmente exerço o cargo 
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
-## Bancos de dados
+## Databases
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
@@ -27,7 +27,7 @@ Trabalho com desenvolvimento de sistemas desde 2015, atualmente exerço o cargo 
   <img align="center" alt="Microsoft SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
 </div>
 
-## Ambientes e frameworks
+## Environments and Frameworks
 
 <div style="display: inline_block"><br>
   <img align="center" alt="DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
@@ -49,8 +49,9 @@ Trabalho com desenvolvimento de sistemas desde 2015, atualmente exerço o cargo 
 </div>
 
 <br>
+<br>
+<br>
 
-# Métricas
 <div align="center">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FSeravat&size_weight=0.5&count_weight=0.5&layout=compact&hide=html,css,tex,handlebars,batchfile&card_width=900&card_height=200)

@@ -127,13 +127,6 @@ Building applications that solve real business problems, from initial requiremen
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FSeravat&layout=compact&hide=html,css,tex,handlebars,batchfile&theme=github_dark&hide_border=true&card_width=450"
-  alt="Most Used Languages"
-/>
-
-<br/>
-
-<img
   src="https://streak-stats.demolab.com/?user=FSeravat&theme=github-dark-blue&hide_border=true"
   alt="GitHub Streak"
 />
